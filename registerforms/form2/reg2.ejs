@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/reg2.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+</head>
+
+<body>
+    <form action="/registered/<%= name %>" method="post">
+        <section>
+            <div class="container">
+    
+                <div class="contactForm">
+                    <div>
+                        <h2>Your Details</h2>
+                        <div class="formBox">
+                            <div class="inputBox w50">
+                                <input type="text"  name="fname" required autocomplete="off" required>
+                                <span>First Name</span>
+                            </div>
+                            <div class="inputBox w50">
+                                <input type="text"  name="lname" required autocomplete="off" required>
+                                <span>Last Name</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="clg" required autocomplete="off"required>
+                                <span>College Name</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="wp" required autocomplete="off"required>
+                                <span>Whatsapp Number</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="year" required autocomplete="off" required>
+                                <span>Year of Study</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="email"  name="email" required autocomplete="off" required>
+                                <span>Email Address</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <label for="event">Choose Topic:</label>
+                                <select name="topic" id="Events">
+                                        <option value="Events">Select Topic</option>
+                                        <option value="Topic1">Is tech. reducing potential of ppl</option>
+                                        <option value="Topic2">Can censorship of OTT platforms be warranted?</option>
+                                        <option value="Topic3">Is vegan diet be first step towards animal love?</option>
+                                        <option value="Topic4">Is AFSPA empowering violation of human rights in Kashmir?</option>
+                                    </select>
+                            </div>
+                            <div class="radio">
+                                <h3>Select Type:</h3>
+                                <input type="radio" id="Event1" name="favour" value="against"/>
+                                <label for="Event1">Against </label>
+                                <input type="radio" id="Event2" name="favour" value="favour"/>
+                                <label for="Event2">Favour</label>
+                            </div>
+                            <div class="checkbox">
+                                
+                                <span>Do you know any app which provides LOAN to students starting from 1000 to 30000 Rupees without any interest fees?</span>
+                            <br>
+                                <input type="checkbox" name="email" required autocomplete="off"> Yes.
+                                <img src="https://ik.imagekit.io/audSPIRE/reg1_2qze2DaEV.png" class="image">
+                                
+                            </div>
+                            <div class="inputBox w100 btn">
+                                <input type="Submit" value="Submit" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+    </form>
+    
+</body>
+
+</html>

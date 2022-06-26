@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" type="text/css" href="/reg1.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration form</title>
+</head>
+
+<body>
+    <section>
+        <div class="container">
+            <div class="contactForm">
+                <div>
+                    <h2>YOUR DETAILS</h2>
+                    <form action="/registered/<%= name %> " method="post">
+                        <div class="formBox">
+                            <div class="inputBox w50">
+                                <input type="text" name="fname" required autocomplete="off">
+                                <span>First Name</span>
+                            </div>
+                            <div class="inputBox w50">
+                                <input type="text" name="lname" required autocomplete="off">
+                                <span>Last Name</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text" name="clg" required autocomplete="off">
+                                <span>College Name</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text" name="wp" required autocomplete="off">
+                                <span>Whatsapp Number</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text" name="year" required autocomplete="off">
+                                <span>Year of Study</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="email" name="email" required autocomplete="off">
+                                <span>Email Address</span>
+                            </div>
+                            <div class="checkbox">
+                                
+                                <span>Do you know any app which provides LOAN to students starting from 1000 to 30000 Rupees without any interest fees?</span>
+                            <br>
+                                <input type="checkbox" name="email" required autocomplete="off"> Yes.
+                                <img src="https://ik.imagekit.io/audSPIRE/reg1_2qze2DaEV.png" class="image">
+                                
+                            </div>
+                            <div class="inputBox w50 btn">
+                                <input type="Submit" value="Submit" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

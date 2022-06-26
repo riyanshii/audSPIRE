@@ -1,0 +1,190 @@
+[{
+        "sname": "hook-step",
+        "name": "HOOK STEP",
+        "text" : {
+            "heading": "Hype up the momentum and heat the beats with your groovy steps and vivid eyes in this DANCE battle.",
+            "rules": ["1. The song and style can be of your choice.", "2. You need to perform for 15-30 sec.", 
+        "3.The video has to be in single take with minimum edits.", "4. You can add the song later to the video before submitting."],
+        "desc" : ["Hello there! ", "Are you bored of penning down all of your miseries and thoughts, looking for a stage to show how loud your mind is, desperate to show your fellows that you are no ordinary guy?"," HOOK STEP brings to you a great chance, have your go at competing for prizes...Captivate the audience with your HOOK STEPS! and grab the  opportunity  to steal the limelight"],
+        "judge" :["Like : 30%","Views : 20%","Judges call : 50%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-03-16-023957_FoAabibmW.png",
+        "reglink": "/register/",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+    },
+
+    {
+        "sname": "folk-onn",
+        "name": "FOLK ONN",
+        "text" : {
+            "heading": "Witness the fun filled extravaganza of enthusiasm by participating in this FOLK DANCE competition",
+            "rules": ["1. The song and style is of your choice.", 
+        "2. Video duration should be around  1 -2 Mins.  ", 
+        "3. Folk dance can be a solo performance or you can have your siblings or Parents on the beat.","4. The video has to be in single take with minimum edits..",
+        "5 .You can add the song later to the video before submitting."],
+        "desc" : ["Knock Knock peeps!", "Our land represents diversity in cultures and traditions, pouring in pride and uniqueness to our country.The essence of deep belief in one's culture make folk dance more meaningful. Get ready to witness the fun filled extravaganza of enthusiasm with a pinch of tradition"],
+        "judge" :["Like : 30%","Views : 20%","Judges call : 50%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-03-16-025932_oryFL4iJPT.png",
+        "reglink":  "#!",
+        "prizes" :["Rs. 2600","Rs. 1200","Rs. 800"]
+    },
+
+    {
+        "sname": "rap",
+        "name": "EK KAHANI HAI JO SABKO SUNANI HAI",
+        "text" : { 
+            "heading" : "It's for all those whose bloodline is RAPPING.",
+            "rules" : ["1. Time limit of performance is 60-90 secs." , "2. Only Hindi, English, and Punjabi are allowed.","3. No backing tracks are allowed. However, you are free to use a beat but it shall not overpower the vocals at any point.","4. Kindly try to record video in the highest possible quality and your face should be visible during your performance.","5. Any editing of vocals is strictly prohibited and will lead to immediate disqualification."],
+            "desc" : ["Bonjour!","Are you bored of penning down all of your miseries and thoughts, looking for a stage to show how loud your mind is, desperate to show your fellows that you are no ordinary guy?","For all those whose bloodline is rapping, it's time to stop dirtying the back of your notebook and get to the arena because we have a stage for you. Yes, you heard it right Audspire is back again for the aid, so it's time to get out of the shadows and show the world your real identity. Rising from nowhere to paradise is what rappers are known for, it's your time to prove it."],
+            "judge" :["Like : 30%","Views : 20%","Judges call : 50%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-03-16-025616_Q6xYRxZ_L0.png",
+        "reglink":  "#!",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+    },
+
+    {
+        "sname": "melodimania",
+        "name": "MELODIMANIA",
+        "text" : { 
+            "heading" : "Tune up your instruments and get your vocals warmed up for this ACOUSTIC SINGING competition.",
+            "rules" : ["1. Time limit of performance is 1-2 mins." , "2. Entries must be in Hindi, Punjabi, English.","3. No backing tracks are allowed. However, you are free to use a beat but it shall not overpower the vocals at any point.","4. Kindly try to record video in the highest possible quality and your face should be visible during your performance.","5. Any editing of vocals is strictly prohibited and will lead to immediate disqualification."],
+            "desc" : ["Hola Amigos!","It's time to tune up your instruments and get your vocals warmed up for the advent of a great event, being organized by none other than the Team Audspire. Your voice is your heritage and it's your billion-dollar chance to compete with your colleagues to prove your vocal supremacy. So, don't miss it, don't make your instruments get rusted and your talent go unnoticed. Show the world what you got and get the fame you deserve."],
+            "judge" :["Like : 30%","Views : 20%","Judges call : 50%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-03-16-025643_KyRq6TJHXF.png",
+        "reglink":  "#!",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+    },
+
+    {
+        "sname": "shotatsight",
+        "name": "SHOT AT SIGHT",
+        "text" : { 
+            "heading" : "Get your camera ready and create a truly  captivating image in this PHOTOGRAPHY event.",
+            "rules" : ["1. The theme of the competition is THE BEST SHOT" , "2. No group photos are allowed","3. You are required to submit unique title and description for each submission. ","4.Photos that portray or otherwise include inappropriate and/or offensive content, including provocative nudity, violence, human rights and/or environmental violation, and/or any other contents deemed to be contrary to the law, religious, cultural & moral traditions and practices of India, are strictly prohibited and will be immediately discarded.","5. Entries must be the original work of the student.","6. Basic editing, including colour enhancement, the use of filters, and cropping of the Photo(s) is acceptable, provided any such editing does not affect the authenticity and/or genuineness of the Photo(s).","7. Advanced editing used to create illusions, deceptions and/or manipulations, and the adding and removing of significant elements within the frame is prohibited."],
+           "desc" : [ " \"Photography is a way of feeling, of touching, of loving. What you have caught on film is captured forever... it remembers little things, long after you have forgotten everything.\" ~Aaron Siskind","Photography is more than just a skill or talent; it's a passion that needs constant fulfillment. While anyone can snap a photo, it takes more to create a truly compelling image. What kind of photograph captures the essence of a place, moment or a person?  Can a photograph tell us a larger story about  a home, city or country, person, moment or nature ?", "So folks, Get your camera ready as  AudSpire will open for entries on ...........!"],
+           "judge":["Like : 30%","Comment : 20%","Judges : 50%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-03-16-024803_fsx70loJz.png",
+        "reglink":  "#!",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+    },
+
+    {
+
+        "sname": "rangrage",
+        "name": "MR & MS रंग-RAGE",
+        "text" : { 
+            "heading" : "Grab the limelight with creativity and art in the first of its kind,an online FASHION AND PERSONA event",
+            "rules" : ["1. Following are the themes : Formal, indo-western, Retro era, recycling.The results shall be based on how innovatively your designs/clothes capture the theme of the event." , "2. The submission type must be cinematic video (15-30 sec).","3. You may use various props(no animals),makeup that enhance your performance. Further creativity lies in your hands."],
+            "desc" : ["Ciao! fashionistas!","Bucket hat with chinos or a sweater with an oxford shirt? Louis vuitton or gucci?Tough choices, aren't they? ", " रंग-RAGE steps in here to unveil those desirable models who can set trends and rev up the gen Z. Yes! Its time to grab the limelight with creativity and art. It is the first of its kind,an online fashion and designing competition solely framed to add some glam and recognise the fashion icons. Fitting into the perfect FORMALS or be it the daily Indo-western look, you always try to spice it up,don't you?Jazzing up the old RETRO attire or mixing and RECYCLING,innovations are always in your check-list.So, pull up your denims and start knitting the web of your dress-of-dreams."],
+            "judge":["Like : 30%","Comment : 5%","Views : 25%","Judges call : 40%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-06-02-115534_W7DPh54qx.png",
+        "reglink":  "#!",
+        "prizes" :["","",""]
+    },
+
+    {
+
+        "sname": "graphopedia",
+        "name": "GRAPHOPEDIA",
+        "text" : {
+            "heading": "Show the talent you imbibed by your eloquent vision and buckle up for GRAPHIC DESIGN competition",
+            "rules": ["1. Digitally edited scans or photos of your own artwork is permitted (i.e. using photoshop to color ink line art, post-processing paintings, etc.).", "2. Designs must be in .jpeg or .png format. When uploading .png files, make sure you have a white background, otherwise the image will turn black.","3. No watermarks on design entries.","4. There is no limit to how many entries each contestant can submit. ","5. Minimum file size: 640 pixels wide x 480 pixels high(4:3), or Square.  ","6. Content should be appropriate for public use. ","7. Designs must be created in vector format. Remember to keep the original vector files of your work.","8. All entries must be the designer’s original work. Plagiarism is not tolerated. " ],
+            "desc" : ["Creativity is allowing yourself to make mistakes and design is what helps you in knowing which ones to keep. Team Audspire wants the graphic designers to go on a rampage with their eloquent vision and break free from the chains that are holding them back. So buckle up and pack all the things you want to get inspired, for it's the time to show the world the talent you have. Let's not speak more and show your fellows what else you can do other than your daily chores."],
+            "judge":["Like : 30%","Comment : 20%","Judges : 50%","The decision of the judges is final."]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-05-27-010016_K9_rMHJGu.png",
+        "reglink":  "#!",
+        "prizes" :["Rs 1800","Rs 500","Rs 300"]
+    },
+    {
+
+        "sname": "doubtdwell",
+        "name": "DOUBT DWELL",
+        "text" : {
+            "heading": "Opportunity to exhibit your ORATORY SKILLS and throw light on the topic from different angles.",
+            "rules": ["1. There will be 2 members in each team - The First Speaker and the Second Speaker.", "2. At a time, there will be 2 teams, one in favour (Proposition) and against (Opposition). ", " 3. After 1st round, _ teams will be qualified for 2nd round. "," 4. Do your research in given 20 min preparation time.", "5. Every Debator will get 5 min for debate.","6. The Debate will start with the Preposition side and the First speaker of Preposition will introduce the motion from their side in one minute and then the same will be done by the First Speaker of the Opposition.","7. After 1 min introduction by both the teams, the Preposition will again put forward their arguments and by the end of 1 min will point a question towards the opposition.","8. The opposition will try to address the question and by the end of 1 minute  will put forward one question towards the Preposition. ","9. The debate will be conducted in this manner till the 5 minutes of the speakers get exhausted.","10. The second speakers will also follow the same format without the 1 min introduction time and starting from the opposition."],
+            "desc" : ["Bonjour!","The Bond fam is back and this time with the opportunity to exhibit your great oratory skills and throw light on the topic from different angles.The aim here is to hone public speaking skills and to be articulate while expressing thoughts and opinions.","So buckle up your shoes and join the race of speech-fight with rules."],
+            "judge":["Judgment will be done on the basis of knowledge of the subject, style, technique, ability to express the ideas and thoughts with clarity, and ability to deal with questions effectively. The decision of the judges will be final."]
+        },
+        "date" :"2021-06-06",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/poster_2021-05-27-010055_8LMXLWGn5.png",
+        "reglink":  "#!",
+        "prizes" :["Rs. 3600","Rs. 800","Rs. 600"]
+    },
+
+    {
+
+        "sname": "alfaaz",
+        "name": "ALFAAZ",
+        "text" : {
+            "heading": "Get ready to express your soul! Give link to your thoughts and Hail the art of POETRY.",
+            "rules": ["1. Poetry must be only in Hindi/English.", "2. Maximum time allotted to a participant is 2 minutes. ", " 3. No  hate speech is allowed. Hate speech is defined as any speech that attacks, threatens, or insult a person or group on the basis of national origin, ethnicity, colour, religion, gender identity or presentation, sexual orientation, or disability."," 4. The competition will be held LIVE."],
+            "desc" :["\"Poetry is an ordinary language raised to the Nth power. Poetry is boned with ideas, nerved and blooded with emotions, all held together by the delicate, tough skin of words\" ~Paul Engle"," Are you ready to give ink to your thoughts? Are you ready to showcase hidden beauty of the world, and make familiar objects be as if they were not familiar with your words? Don't worry, AudSpire is here with a poetry competition. So get ready to express your soul and Hail the art of poetry with us. "],
+            "judge" :[ "Entries will be judged on the basis of Content(Subject -matter and how well the poetry is able to convey its intended meaning) , Way of Recitation , Other poetic intricacies/elements(i.e how well the lines have been arrenged , relevence and connection of one line with other, continuation of flow etc.)."]
+        },
+        "date" :"2021-06-06",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/alfaaz__AgLEd45Q.jpg",
+        "reglink":  "#!",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+    },
+
+    {
+
+        "sname": "weebiz",
+        "name": "WEEBiz",
+        "text" : {
+            "heading": "It's time to compete and defeat, it's time to decide who will bear the crown in this QUIZ COMPETITION.",
+            "rules": ["1. Quiz will be LIVE and platform will be informed to the participants.","2. No cell phones or any outside sources allowed and teams found doing so would be disqualified.","3. Only individual participation of the contestants is allowed. "],
+            "desc" :["Konnichiwa!"," \"You said you worked hard? Well maybe you need to work a little longer\" ~Saitama.","If you are not a weeb, then 'Omae wa mou  shindeiru' because there's nothing left for you to decipher. This time, team Audspire is giving a chance to all the shadow dwellers to rise and show their weeb supremacy. It's time to compete and defeat, it's time to decide who will bear the crown."],
+            "judge" :[ " You will be judged based on timing/pace, and overall performance."]
+        },
+        "date" :"2021-06-07",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/2_CMyx6FiJt.jpg",
+        "reglink":  "#!",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+        
+    },
+
+    {
+
+        "sname": "op",
+        "name": "OP",
+        "text" : {
+            "heading": "Make people laugh to death by participating in this video meme crossover competition.",
+            "rules": ["1. The video duration must lie between 15-30 seconds.", "2. The Final video should be original, plagiarism is strictly prohibited.", " 3. The video is solely for enjoyment purposes, it shouldn't contain contents that could enrage viewers. "],
+            "desc" :["Hola Fellas!"," An apple a day keeps anyone away as long as you throw it hard enough.","Well, that's nothing worth a hype but just highlighting another utility of the apple that brought gravity to life.We are here to let you all know about the advent of competition for those who can make people laugh to death because team Audspire has summoned you all to participate in this video meme crossover fest. So all the memers it's time for a spotlight, stop hiding in that nest, and let's make everyone succumb to zest."],
+            "judge" :["Like : 30%","Comment : 5%","Views : 25%","Judges call : 40%"]
+        },
+        "date" :"2021-06-10",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/tr:w-3362,h-3362,cm-extract,x-48,y-54/4__69N5oiXR.jpg",
+        "reglink": "#!",
+        "prizes" :["Rs. 2000","Rs. 700","Rs. 500"]
+    },
+    {
+
+        "sname": "munchin",
+        "name": "STAR CHEF",
+        "text" : {
+            "heading": "Chance for aspiring Cooks, Bakers and Chefs to showcase their talent and be the face of MunchIn Platform.",
+            "rules": ["1. Multiples recipes from single account are allowed. "," 2. Please submit your original work, MunchIn is not responsible for plagiarism. ","3. There is an option to provide YouTube link if user doesn’t want to upload video "],
+            "desc" :["MunchIn is a social media platform for foodies where people can connect with other foodies, create portfolio of recipes and share with other foodies to create their own personal brand. It also enables experts to initiate discussion forum.","MunchIn launches StarChef program for foodies and aspiring cooks, where people can participate by uploading their detailed & unique recipes on MunchIn android App, and get a chance to win prizes worth ~ Rs 25000.","It gives a chance to aspiring cooks, bakers and chefs to showcase their talent and be the face of MunchIn platform."],
+            "judge" :["Top 5 winners will be selected based on sum of likes on all the posts and innovation in the recipe."]
+        },
+        "date" :"2021-06-17",
+        "imgsrc": "https://ik.imagekit.io/audSPIRE/WhatsApp_Image_2021-05-28_at_12.17.11_PM_MkT1_oaZW.jpeg",
+        "reglink": "#!",
+        "prizes" :["","",""]
+    }
+]

@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="/form.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <title>Join Us</title>
+</head>
+
+<body>
+    <form method="post" action="/joinus/form">
+        <section>
+            <div class="container">
+    
+                <div class="contactForm">
+                    <div>
+                        <h2>Your Details</h2>
+                        <div class="formBox">
+                            <div class="inputBox w50">
+                                <input type="text"  name="fname" required autocomplete="off" required>
+                                <span>First Name</span>
+                            </div>
+                            <div class="inputBox w50">
+                                <input type="text"  name="lname" required autocomplete="off" required>
+                                <span>Last Name</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="clg" required autocomplete="off"required>
+                                <span>College Name</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="wp" required autocomplete="off"required>
+                                <span>Whatsapp Number</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="year" required autocomplete="off" required>
+                                <span>Year of Study</span>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="email"  name="email" required autocomplete="off" required>
+                                <span>Email Address</span>
+                            </div>
+                            <!-- <div class="inputBox w100">
+                                <label for="event">You want to Work as:</label>
+                                <select name="topic" id="Events">
+                                        <option value="Events">Select Field</option>
+                                        <option value="Topic1">Marketing Secretary</option>
+                                        <option value="Topic2">Graphic Designer</option>
+                                        <option value="Topic3">Video Editor</option>
+                                        <option value="Topic4">Management Secretary</option>
+                                        <option value="Topic4">Content Writer</option>
+                                        <option value="Topic4">Web Developer</option>
+                                    </select>
+                            </div> -->
+                            <div class="">
+                                <label for="event" >You want to Work as:</label>
+                                <br>
+                                <div class="checkbox">
+                                <input type="radio" value="Marketing Secretary" name="work"> Marketing Secretary
+                                <br>
+                                <input type="radio" value="Graphic Designer" name="work"> Graphic Designer
+                                <br>
+                                <input type="radio" value="Video Editor" name="work"> Video Editor
+                                <br>
+                                <input type="radio" value="Content Writer" name="work"> Content Writer
+                                <br>
+                                <input type="radio" value="Web Developer" name="work"> Web Developer
+                                <br> 
+                            </div>  
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="text"  name="resume" required autocomplete="off" required>
+                                <span>Resume (Drive Link)</span>
+                                <p class="para">*(If you don't have your resume ready you can submit link of a doc file with list of your brief intro, past achievements and experiences)</p>
+                            </div>
+                            <div class="inputBox w100 btn">
+                                <input type="Submit" value="Submit" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </section>
+    </form>
+    
+</body>
+
+<script>
+    // const scriptURL = 'https://script.google.com/macros/s/AKfycbx_DKY2FX5xfhuxbL0FSzxNAElTMbMbYi538XIuC5FEnBfEljc_5_r9_6SAcmuT_E6u/exec'
+    // const form = document.forms['google-sheet']
+  
+    // form.addEventListener('submit', e => {
+    //   e.preventDefault()
+    //   fetch(scriptURL, { method: 'POST', body: new FormData(form) , mode: 'no-cors', headers: {
+    //     'Content-Type': 'text/plain;charset=utf-8',
+    // }})
+    //     .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+    //     .catch(error => console.error('Error!', error.message))
+    // })
+</script>
+
+</html>
